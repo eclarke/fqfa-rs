@@ -1,0 +1,8 @@
+[package]
+name = "fqfa"
+version = "1.0.0"
+authors = ["Erik Clarke <erikclarke@fastmail.com>"]
+description = "A fast pipe-based converter from FASTQ to FASTA"
+
+[dependencies]
+bio="0.13"
